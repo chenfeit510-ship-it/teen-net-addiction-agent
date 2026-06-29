@@ -6,7 +6,6 @@
 
 ![Python](https://img.shields.io/badge/前端-HTML/CSS/JS-blue)
 ![Model](https://img.shields.io/badge/模型-Qwen--Plus-purple)
-![License](https://img.shields.io/badge/课程-AI4S-green)
 
 ---
 
@@ -19,7 +18,6 @@
 - 💡 **认知重构**：识别并调整不合理认知
 - 🎯 **行为改变**：制定可执行的改善计划
 
-本项目为 **AI4S 课程大作业**，全程使用 AI 辅助开发（Claude Code / Codex / Workbuddy），符合课程"全程人指导完成"的要求。
 
 ---
 
